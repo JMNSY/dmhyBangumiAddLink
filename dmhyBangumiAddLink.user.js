@@ -4,6 +4,7 @@
 // @version        0.3
 // @description    番组表的图片监听左键单击，直接在当前页跳转不符合本人浏览习惯，故对每一张图片覆盖上一个链接元素
 // @match          http://share.dmhy.org/cms/page/name/programme.html
+// @match          https://share.dmhy.org/cms/page/name/programme.html
 // @license        GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @copyright  	   2015.01.25, JMNSY
 // ==/UserScript==
